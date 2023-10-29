@@ -1,0 +1,29 @@
+
+>
+java:S1068'"(Remove this unused "name" private field.(Ë¥¼
+@
+java:S1068,"*Remove this unused "typeId" private field.(ÏÙµÒ
+@
+java:S10681"*Remove this unused "images" private field.(ŠÎç
+C
+java:S10686"(Remove this unused "area" private field.(ı¨­Œùÿÿÿÿ
+F
+java:S1068;"+Remove this unused "address" private field.(÷§ùÿÿÿÿ
+@
+java:S1068@"%Remove this unused "x" private field.(·³ì÷úÿÿÿÿ
+;
+java:S1068E"%Remove this unused "y" private field.(÷¸¤ª
+G
+java:S1068J",Remove this unused "avgPrice" private field.(™¹Îºøÿÿÿÿ
+=
+java:S1068O"(Remove this unused "sold" private field.(Ú·‡
+G
+java:S1068T",Remove this unused "comments" private field.(‰ëãøÿÿÿÿ
+D
+java:S1068Y")Remove this unused "score" private field.(ÉëŞüÿÿÿÿ
+H
+java:S1068^"-Remove this unused "openHours" private field.(üæüÿÿÿÿ
+D
+java:S1068c".Remove this unused "createTime" private field.(òáÄİ
+D
+java:S1068h".Remove this unused "updateTime" private field.(œ˜Ë†

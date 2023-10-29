@@ -7,11 +7,11 @@ spring:
     driver-class-name: com.mysql.jdbc.Driver
     url: jdbc:mysql://127.0.0.1:3306/hmdp?useSSL=false&serverTimezone=UTC
     username: root
-    password: 123
+    password: 19103076162Zxh#
   redis:
-    host: 192.168.150.101
+    host: 47.120.11.68
     port: 6379
-    password: 123321
+    password: 123456Redis
     lettuce:
       pool:
         max-active: 10
@@ -20,6 +20,8 @@ spring:
         time-between-eviction-runs: 10s
   jackson:
     default-property-inclusion: non_null # JSON处理时忽略非空字段
+
+
 mybatis-plus:
   type-aliases-package: com.hmdp.entity # 别名扫描包
 logging:

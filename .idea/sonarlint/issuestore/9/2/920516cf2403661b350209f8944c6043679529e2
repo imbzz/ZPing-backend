@@ -1,0 +1,19 @@
+
+@
+java:S1068&"*Remove this unused "shopId" private field.(ÅãÊš
+E
+java:S1068*"*Remove this unused "userId" private field.(Â—‹¼úÿÿÿÿ
+D
+java:S1068>")Remove this unused "title" private field.(åõò¹ıÿÿÿÿ
+@
+java:S1068C"*Remove this unused "images" private field.(ŠÎç
+F
+java:S1068H"+Remove this unused "content" private field.(ÃÇÿôøÿÿÿÿ
+>
+java:S1068M")Remove this unused "liked" private field.(£­®X
+G
+java:S1068R",Remove this unused "comments" private field.(‰ëãøÿÿÿÿ
+D
+java:S1068W".Remove this unused "createTime" private field.(òáÄİ
+D
+java:S1068\".Remove this unused "updateTime" private field.(œ˜Ë†
