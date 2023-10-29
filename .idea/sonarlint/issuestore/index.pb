@@ -49,16 +49,10 @@ i
 9hm-dianping/src/main/java/com/hmdp/mapper/BlogMapper.java,1\9\1949b0822b424e402b97960b593977523e5f4106
 t
 Dhm-dianping/src/main/java/com/hmdp/service/IBlogCommentsService.java,2\7\275cd97c6039a05fd5e8f65b6905f0bb309f18c0
-u
-EJedis-demo/src/main/java/com/demo/jedisdemo/JedisDemoApplication.java,e\6\e6978cc14f134b1209c5105d48bf832f2d918ea0
-l
-<hm-dianping/src/main/java/com/hmdp/service/IBlogService.java,4\5\45c527c11b188bfe4c5daae007eb7a68b380daa3
 p
 @hm-dianping/src/main/java/com/hmdp/service/IShopTypeService.java,1\9\19cc9aa30487429853c6c6a522cc04e42d9a56e0
 x
 Hhm-dianping/src/main/java/com/hmdp/service/impl/UserInfoServiceImpl.java,6\3\63f2b56fb1ed8b1a5a9b51c85fde138af28d73dd
-q
-AJedis-demo/src/main/java/com/demo/jedisdemo/Utils/JedisUtils.java,1\6\1682add697f73119f5825c87509945b4a7efb481
 t
 DJedis-demo/src/test/java/com/demo/jedisdemo/TestJedis/TestJedis.java,1\c\1cc999c771280e3b9d8e28ec841233bc67179d61
 x
@@ -89,8 +83,6 @@ k
 ;hm-dianping/src/main/java/com/hmdp/utils/RegexPatterns.java,0\2\026df79cd588cd01ae26c84e285241d227156815
 |
 Lhm-dianping/src/main/java/com/hmdp/service/impl/BlogCommentsServiceImpl.java,a\b\ab68db3b40cd26cab6091aa7b100f942d395c553
-t
-Dhm-dianping/src/main/java/com/hmdp/service/impl/BlogServiceImpl.java,9\a\9a07abda902589315a3b94da7fac674deaa1f1b6
 v
 Fhm-dianping/src/main/java/com/hmdp/service/impl/FollowServiceImpl.java,7\9\79f61243c01b70d9c45f436db1246dd554bc3fdf
 u
