@@ -65,10 +65,13 @@ public class BlogController {
         List<Blog> records = blogService.quertHotBlog(current);
         return Result.ok(records);
     }
-
-
     @GetMapping("/{id}")
-    public Result getBlog(@PathVariable("id") Long id) {
+    public Result queryBlogById(@PathVariable("id") Long id) {
         return blogService.queryBlogById(id);
+    }
+
+    @GetMapping("/likes/{id}")
+    public Result queryBlogLikes(@PathVariable("id") Long id) {
+        return blogService.queryBlogLikes(id);
     }
 }

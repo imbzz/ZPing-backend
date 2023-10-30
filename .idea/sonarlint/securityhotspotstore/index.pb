@@ -27,8 +27,6 @@ g
 7hm-dianping/src/main/java/com/hmdp/entity/UserInfo.java,b\2\b23a88b871652b37337f4802d9ea55157786ce82
 g
 7hm-dianping/src/main/java/com/hmdp/entity/ShopType.java,a\c\ac4cdca541458f364aa87c079bf55777917ad50e
-k
-;hm-dianping/src/main/java/com/hmdp/entity/BlogComments.java,c\7\c77e483a1769dd4f573842863e4ec749d5c42c62
 e
 5hm-dianping/src/main/java/com/hmdp/entity/Follow.java,d\b\dbdb08104b0668b05c232df02ba0816bc4855309
 k
