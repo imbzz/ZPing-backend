@@ -71,6 +71,12 @@ public class UserController {
         return userService.login(loginForm,session);
     }
 
+
+    @PostMapping("/sign")
+    public Result sign(){
+        return userService.sign();
+    }
+
     /**
      * 登出功能
      * @return 无
