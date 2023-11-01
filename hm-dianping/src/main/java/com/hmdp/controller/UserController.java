@@ -77,6 +77,11 @@ public class UserController {
         return userService.sign();
     }
 
+    @GetMapping("/sign/count")
+    public Result signCount(){
+        return userService.signCount();
+    }
+
     /**
      * 登出功能
      * @return 无
