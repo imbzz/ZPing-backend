@@ -43,8 +43,6 @@ q
 Ahm-dianping/src/main/java/com/hmdp/mapper/VoucherOrderMapper.java,8\8\886e7cb56cd16380083d831b1cc610a4f0ec6aa0
 c
 3hm-dianping/src/main/java/com/hmdp/entity/Shop.java,b\1\b1ce7776198b03686282a8b76cafdc712795bf60
-n
->hm-dianping/src/main/java/com/hmdp/service/IFollowService.java,7\6\76ad46c217923da3d6db6f27dbee527d91487293
 p
 @hm-dianping/src/main/java/com/hmdp/service/IUserInfoService.java,6\7\67235d846bf42d77f0ea62a74a518a1d1da0fabf
 i
@@ -63,12 +61,8 @@ x
 Hhm-dianping/src/main/java/com/hmdp/service/impl/UserInfoServiceImpl.java,6\3\63f2b56fb1ed8b1a5a9b51c85fde138af28d73dd
 t
 DJedis-demo/src/test/java/com/demo/jedisdemo/TestJedis/TestJedis.java,1\c\1cc999c771280e3b9d8e28ec841233bc67179d61
-x
-Hhm-dianping/src/main/java/com/hmdp/service/impl/ShopTypeServiceImpl.java,3\e\3efd0854742370173e1c49fc076f81065412abf1
 ˜
 hSpringDataRedis-demo/src/test/java/com/demo/springdataredisdemo/SpringDataRedisDemoApplicationTests.java,5\9\5972f94195c92ee1471868adbf721daaeca406d4
-s
-Chm-dianping/src/main/java/com/hmdp/controller/FollowController.java,8\3\839d4c28631e3071e2f79179ce2cde4242ac77d1
 L
 SpringDataRedis-demo/pom.xml,3\2\32b225c85fa464d93c9348972eb1476fb11d09ee
 B
@@ -79,8 +73,6 @@ k
 ;hm-dianping/src/main/java/com/hmdp/utils/RegexPatterns.java,0\2\026df79cd588cd01ae26c84e285241d227156815
 |
 Lhm-dianping/src/main/java/com/hmdp/service/impl/BlogCommentsServiceImpl.java,a\b\ab68db3b40cd26cab6091aa7b100f942d395c553
-v
-Fhm-dianping/src/main/java/com/hmdp/service/impl/FollowServiceImpl.java,7\9\79f61243c01b70d9c45f436db1246dd554bc3fdf
 u
 Ehm-dianping/src/main/java/com/hmdp/controller/ShopTypeController.java,f\a\fafb1a288601757f36396d22acac7976ea37b1bc
 g

@@ -13,16 +13,16 @@ import com.hmdp.entity.User;
 import com.hmdp.mapper.UserMapper;
 import com.hmdp.service.IUserService;
 import com.hmdp.utils.RegexUtils;
-import org.springframework.data.redis.core.RedisTemplate;
+import com.hmdp.utils.UserHolder;
 import org.springframework.data.redis.core.StringRedisTemplate;
 import org.springframework.stereotype.Service;
 
 import javax.annotation.Resource;
 import javax.servlet.http.HttpSession;
 
-import java.util.HashMap;
-import java.util.Map;
+import java.util.*;
 import java.util.concurrent.TimeUnit;
+import java.util.stream.Collectors;
 
 import static com.hmdp.Constants.RedisConstant.*;
 import static com.hmdp.Constants.SystemConstants.USER_NICK_NAME_PREFIX;
@@ -42,6 +42,7 @@ public class UserServiceImpl extends ServiceImpl<UserMapper, User> implements IU
 
     @Resource
     private StringRedisTemplate stringRedisTemplate;
+
 
     @Override
     public Result sendCode(String phone, HttpSession session) {
